@@ -1,0 +1,20 @@
+GET http://localhost:8080/test
+#Accept: application/json
+
+> {%
+    client.test("test-hello",function () {
+        client.log("测试");
+        client.log(response.body);
+        client.log(JSON.stringify(response.body));
+
+        client.assert(response.status === 200, "Status code is not 200");
+        client.assert(response.body=== "Hello World", "Message is not 'Hello, John!'");
+    })
+%}
+###
+
+POST http://localhost:8080/test/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=John
+
