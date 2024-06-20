@@ -253,3 +253,60 @@
 2024-06-20 22:39:00.978 INFO  com.example.wiki.WikiApplication                  :61   [32m                  [0;39m Started WikiApplication in 0.794 seconds (JVM running for 1.035)
 2024-06-20 22:39:00.980 INFO  com.example.wiki.WikiApplication                  :16   [32m                  [0;39m 启动成功！！
 2024-06-20 22:39:00.980 INFO  com.example.wiki.WikiApplication                  :17   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2024-06-20 22:43:24.811 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 22:43:24.812 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-06-20 22:43:24.815 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 3 ms
+2024-06-20 22:43:30.625 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:43:33.220 INFO  com.example.wiki.WikiApplication                  :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_402 on 192.168.1.3 with PID 16962 (/Users/coder-zjc/java-project/wiki/target/classes started by coder-zjc in /Users/coder-zjc/java-project/wiki)
+2024-06-20 22:43:33.222 INFO  com.example.wiki.WikiApplication                  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2024-06-20 22:43:33.588 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8082 (http)
+2024-06-20 22:43:33.593 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:43:33.593 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-06-20 22:43:33.593 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2024-06-20 22:43:33.620 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-06-20 22:43:33.621 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 375 ms
+2024-06-20 22:43:33.694 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:43:33.762 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:43:33.772 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8082 (http) with context path ''
+2024-06-20 22:43:33.780 INFO  com.example.wiki.WikiApplication                  :61   [32m                  [0;39m Started WikiApplication in 0.872 seconds (JVM running for 1.197)
+2024-06-20 22:43:33.781 INFO  com.example.wiki.WikiApplication                  :16   [32m                  [0;39m 启动成功！！
+2024-06-20 22:43:33.782 INFO  com.example.wiki.WikiApplication                  :17   [32m                  [0;39m 地址: 	http://127.0.0.1:8082
+2024-06-20 22:43:39.246 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 22:43:39.247 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-06-20 22:43:39.248 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2024-06-20 22:44:13.970 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:44:16.400 INFO  com.example.wiki.WikiApplication                  :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_402 on 192.168.1.3 with PID 17205 (/Users/coder-zjc/java-project/wiki/target/classes started by coder-zjc in /Users/coder-zjc/java-project/wiki)
+2024-06-20 22:44:16.402 INFO  com.example.wiki.WikiApplication                  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2024-06-20 22:44:16.761 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8082 (http)
+2024-06-20 22:44:16.765 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:44:16.766 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-06-20 22:44:16.766 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2024-06-20 22:44:16.796 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-06-20 22:44:16.796 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 372 ms
+2024-06-20 22:44:16.897 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:44:16.974 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:44:16.986 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8082 (http) with context path ''
+2024-06-20 22:44:16.995 INFO  com.example.wiki.WikiApplication                  :61   [32m                  [0;39m Started WikiApplication in 0.905 seconds (JVM running for 1.194)
+2024-06-20 22:44:16.997 INFO  com.example.wiki.WikiApplication                  :16   [32m                  [0;39m 启动成功！！
+2024-06-20 22:44:16.997 INFO  com.example.wiki.WikiApplication                  :17   [32m                  [0;39m 地址: 	http://127.0.0.1:8082
+2024-06-20 22:44:19.871 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 22:44:19.872 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-06-20 22:44:19.874 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 2 ms
+2024-06-20 22:45:08.663 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:45:10.915 INFO  com.example.wiki.WikiApplication                  :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_402 on 192.168.1.3 with PID 17503 (/Users/coder-zjc/java-project/wiki/target/classes started by coder-zjc in /Users/coder-zjc/java-project/wiki)
+2024-06-20 22:45:10.916 INFO  com.example.wiki.WikiApplication                  :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2024-06-20 22:45:11.306 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8082 (http)
+2024-06-20 22:45:11.309 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:45:11.310 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-06-20 22:45:11.310 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2024-06-20 22:45:11.336 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-06-20 22:45:11.336 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 399 ms
+2024-06-20 22:45:11.406 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2024-06-20 22:45:11.478 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8082"]
+2024-06-20 22:45:11.488 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8082 (http) with context path ''
+2024-06-20 22:45:11.496 INFO  com.example.wiki.WikiApplication                  :61   [32m                  [0;39m Started WikiApplication in 0.823 seconds (JVM running for 1.069)
+2024-06-20 22:45:11.501 INFO  com.example.wiki.WikiApplication                  :16   [32m                  [0;39m 启动成功！！
+2024-06-20 22:45:11.501 INFO  com.example.wiki.WikiApplication                  :17   [32m                  [0;39m 地址: 	http://127.0.0.1:8082
+2024-06-20 22:45:14.451 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 22:45:14.451 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-06-20 22:45:14.452 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
